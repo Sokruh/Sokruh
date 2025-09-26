@@ -1,4 +1,6 @@
 # 💫 About Me:
+Software Engineering student
+
 Kontula Hoods Co-Owner and Lead Developer.<br><br>Currently working on Kontula.net Minecraft Server.
 
 
@@ -7,6 +9,10 @@ Kontula Hoods Co-Owner and Lead Developer.<br><br>Currently working on Kontula.n
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![PaperMC](https://img.shields.io/badge/PaperMC-API-blue?style=flat&logo=java&logoColor=white&labelColor=2C2D72&color=FF5C5C)
+
+# Experience:
+I started to learn programming in late 2021. I started with Skript (a skripting language for minecraft servers). In 2023 i moved on to learn Python and later that year i started to learn Java programming for minecraft servers using the PaperMC API. In 2024 i started to learn C# for SCP: SL server plugin development using the EXILED API. 2023-2025 I've been coding Minecraft server plugins for my own projects (mostly [Kontula Hoods](https://discord.gg/discord.gg/kontula)) and some small servers. Nowdays use mostly C# in school and java for most of my programming.
+
 
 
 
